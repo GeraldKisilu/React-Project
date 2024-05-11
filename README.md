@@ -1,70 +1,49 @@
-# Getting Started with Create React App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# LOVETUBE
 
-## Available Scripts
+## By
+This project was a group work effort participated by:
+Gerald Kisilu,
+Abdi Shukri,
+Valeria Wabwire,
+Edwin Mwangi, &
+Emmanuel Waseth
 
-In the project directory, you can run:
+## Description
+Our project aims to develop a dating application that prioritizes user experience, inclusivity, privacy, and authenticity. By leveraging innovative technologies and design principles, we seek to revolutionize the online dating landscape and empower individuals to forge meaningful connections in today's digital age. It includes the following fetures:
+### Required Features
+User Registration and Profile Creation:
+         -The user should be able to sign up for the app.
+         -The user should be able to create their profile with basic information such as name, age, gender, location, interests, hobbies, and relationship preferences.
+Matching Feature:
+         -The user should receive suggested potential matches based on their profile information and preferences.
+User Discovery/Searching:
+         -The user should have features like scrolling through profiles, searching/filtering based on criteria like age, location, and interests.
+Messaging System:
+         -The user should be able to communicate with matched users through messaging.
+         -The user should have basic messaging functionality to send and receive text messages.
+Notifications:
+         -The user should receive notifications about new matches, messages, and other relevant updates.
+         -The user should be engaged and informed through notifications, encouraging them to return to the app.
+
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Work with json-server --port 8000 db.json as the command if localhost:300 does not respond
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+## Deployed Link
+ https://663d328122096c5120d3d03b--dancing-capybara-da9b88.netlify.app
+ 
+## Technical Expectations
+FrontEnd: HTML, CSS
+API’s
+Backend: JavaScript, React
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## License
+The content of this site is licensed under the MIT license Copyright (c) 2024.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
